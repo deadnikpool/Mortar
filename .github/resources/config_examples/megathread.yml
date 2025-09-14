@@ -1,7 +1,7 @@
 hosts:
   - display_name: "Megathread"
     host_type: MEGATHREAD
-    root_uri: "https://mxxxxxx.exxxxx.me" # REPLACE THIS! If you ask for this in the NextUI Discord we will not answer you.
+    root_uri: "https://myrient.erista.me"
 
     platforms:
       - platform_name: "Game Boy"
@@ -11,7 +11,7 @@ hosts:
         system_tag: "GBC"
         host_subdirectory: "/files/No-Intro/Nintendo%20-%20Game%20Boy%20Color/"
       - platform_name: "Game Boy Advance"
-        system_tag: "GBA"
+        system_tag: "MGBA"
         host_subdirectory: "/files/No-Intro/Nintendo%20-%20Game%20Boy%20Advance/"
       - platform_name: "Nintendo Entertainment System"
         system_tag: "FC"
